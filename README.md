@@ -20,7 +20,7 @@ A production-grade Deep Learning API built with **FastAPI** and **TensorFlow/Ker
 ├── requirements.txt     # Project dependencies
 └── README.md            # Project documentation
 
-⚙️ Installation & Setup (Local Running)
+## ⚙️ Installation & Setup (Local Running)
 Clone the Repository:
 
 Bash
