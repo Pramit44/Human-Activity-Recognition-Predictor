@@ -20,6 +20,9 @@ A production-grade Deep Learning API built with **FastAPI** and **TensorFlow/Ker
 ├── requirements.txt     # Project dependencies
 └── README.md            # Project documentation
 
+
+---
+
 ## ⚙️ Installation & Setup (Local Running)
 Clone the Repository:
 
@@ -53,7 +56,9 @@ Input: A multipart CSV file containing smartphone sensor features.
 
 Output: A downloadable CSV file containing the original dataset with an appended AI_Prediction column.
 
-👤 Author
+---
+
+##👤 Author
 Pramit Deshwal
 
 B.Tech Computer Science & Engineering (Artificial Intelligence)
