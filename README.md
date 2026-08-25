@@ -23,7 +23,7 @@ A production-grade Deep Learning API built with **FastAPI** and **TensorFlow/Ker
 
 ---
 
-## ⚙️ Installation & Setup (Local Running)
+ **⚙️ Installation & Setup (Local Running)**
 Clone the Repository:
 
 Bash
@@ -45,7 +45,7 @@ Swagger UI: http://127.0.0.1:8000/docs
 
 ReDoc: http://127.0.0.1:8000/redoc
 
-🔌 API Endpoints
+**🔌 API Endpoints**
 GET /
 
 Returns a welcome message and system information.
@@ -58,7 +58,7 @@ Output: A downloadable CSV file containing the original dataset with an appended
 
 ---
 
-##👤 Author
+**👤 Author**
 Pramit Deshwal
 
 B.Tech Computer Science & Engineering (Artificial Intelligence)
